@@ -1,0 +1,98 @@
+D:\ВУЗ\Практика 2 курс\Summer-Practic-2-Kurs\ConsoleApp1\ServerAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\ВУЗ\Практика 2 курс\Summer-Practic-2-Kurs\ConsoleApp1\ServerAPI\bin\Debug\net6.0\appsettings.json
+D:\ВУЗ\Практика 2 курс\Summer-Practic-2-Kurs\ConsoleApp1\ServerAPI\bin\Debug\net6.0\ServerAPI.exe
+D:\ВУЗ\Практика 2 курс\Summer-Practic-2-Kurs\ConsoleApp1\ServerAPI\bin\Debug\net6.0\ServerAPI.deps.json
+D:\ВУЗ\Практика 2 курс\Summer-Practic-2-Kurs\ConsoleApp1\ServerAPI\bin\Debug\net6.0\ServerAPI.runtimeconfig.json
+D:\ВУЗ\Практика 2 курс\Summer-Practic-2-Kurs\ConsoleApp1\ServerAPI\bin\Debug\net6.0\ServerAPI.dll
+D:\ВУЗ\Практика 2 курс\Summer-Practic-2-Kurs\ConsoleApp1\ServerAPI\bin\Debug\net6.0\ServerAPI.pdb
+D:\ВУЗ\Практика 2 курс\Summer-Practic-2-Kurs\ConsoleApp1\ServerAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ВУЗ\Практика 2 курс\Summer-Practic-2-Kurs\ConsoleApp1\ServerAPI\bin\Debug\net6.0\System.CodeDom.dll
+D:\ВУЗ\Практика 2 курс\Summer-Practic-2-Kurs\ConsoleApp1\ServerAPI\bin\Debug\net6.0\System.Management.dll
+D:\ВУЗ\Практика 2 курс\Summer-Practic-2-Kurs\ConsoleApp1\ServerAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Management.dll
+D:\ВУЗ\Практика 2 курс\Summer-Practic-2-Kurs\ConsoleApp1\ServerAPI\bin\Debug\net6.0\Classes.dll
+D:\ВУЗ\Практика 2 курс\Summer-Practic-2-Kurs\ConsoleApp1\ServerAPI\bin\Debug\net6.0\Classes.pdb
+D:\ВУЗ\Практика 2 курс\Summer-Practic-2-Kurs\ConsoleApp1\ServerAPI\obj\Debug\net6.0\ServerAPI.csproj.AssemblyReference.cache
+D:\ВУЗ\Практика 2 курс\Summer-Practic-2-Kurs\ConsoleApp1\ServerAPI\obj\Debug\net6.0\ServerAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\ВУЗ\Практика 2 курс\Summer-Practic-2-Kurs\ConsoleApp1\ServerAPI\obj\Debug\net6.0\ServerAPI.AssemblyInfoInputs.cache
+D:\ВУЗ\Практика 2 курс\Summer-Practic-2-Kurs\ConsoleApp1\ServerAPI\obj\Debug\net6.0\ServerAPI.AssemblyInfo.cs
+D:\ВУЗ\Практика 2 курс\Summer-Practic-2-Kurs\ConsoleApp1\ServerAPI\obj\Debug\net6.0\ServerAPI.csproj.CoreCompileInputs.cache
+D:\ВУЗ\Практика 2 курс\Summer-Practic-2-Kurs\ConsoleApp1\ServerAPI\obj\Debug\net6.0\ServerAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\ВУЗ\Практика 2 курс\Summer-Practic-2-Kurs\ConsoleApp1\ServerAPI\obj\Debug\net6.0\staticwebassets\msbuild.ServerAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ВУЗ\Практика 2 курс\Summer-Practic-2-Kurs\ConsoleApp1\ServerAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.ServerAPI.props
+D:\ВУЗ\Практика 2 курс\Summer-Practic-2-Kurs\ConsoleApp1\ServerAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ServerAPI.props
+D:\ВУЗ\Практика 2 курс\Summer-Practic-2-Kurs\ConsoleApp1\ServerAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ServerAPI.props
+D:\ВУЗ\Практика 2 курс\Summer-Practic-2-Kurs\ConsoleApp1\ServerAPI\obj\Debug\net6.0\staticwebassets.pack.json
+D:\ВУЗ\Практика 2 курс\Summer-Practic-2-Kurs\ConsoleApp1\ServerAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\ВУЗ\Практика 2 курс\Summer-Practic-2-Kurs\ConsoleApp1\ServerAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\ВУЗ\Практика 2 курс\Summer-Practic-2-Kurs\ConsoleApp1\ServerAPI\obj\Debug\net6.0\scopedcss\bundle\ServerAPI.styles.css
+D:\ВУЗ\Практика 2 курс\Summer-Practic-2-Kurs\ConsoleApp1\ServerAPI\obj\Debug\net6.0\ServerAPI.csproj.CopyComplete
+D:\ВУЗ\Практика 2 курс\Summer-Practic-2-Kurs\ConsoleApp1\ServerAPI\obj\Debug\net6.0\ServerAPI.dll
+D:\ВУЗ\Практика 2 курс\Summer-Practic-2-Kurs\ConsoleApp1\ServerAPI\obj\Debug\net6.0\refint\ServerAPI.dll
+D:\ВУЗ\Практика 2 курс\Summer-Practic-2-Kurs\ConsoleApp1\ServerAPI\obj\Debug\net6.0\ServerAPI.pdb
+D:\ВУЗ\Практика 2 курс\Summer-Practic-2-Kurs\ConsoleApp1\ServerAPI\obj\Debug\net6.0\ServerAPI.genruntimeconfig.cache
+D:\ВУЗ\Практика 2 курс\Summer-Practic-2-Kurs\ConsoleApp1\ServerAPI\obj\Debug\net6.0\ref\ServerAPI.dll
+C:\Users\1\Desktop\Summer-Practic-2-Kurs-main\ConsoleApp1\ServerAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\1\Desktop\Summer-Practic-2-Kurs-main\ConsoleApp1\ServerAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\1\Desktop\Summer-Practic-2-Kurs-main\ConsoleApp1\ServerAPI\bin\Debug\net6.0\ServerAPI.exe
+C:\Users\1\Desktop\Summer-Practic-2-Kurs-main\ConsoleApp1\ServerAPI\bin\Debug\net6.0\ServerAPI.deps.json
+C:\Users\1\Desktop\Summer-Practic-2-Kurs-main\ConsoleApp1\ServerAPI\bin\Debug\net6.0\ServerAPI.runtimeconfig.json
+C:\Users\1\Desktop\Summer-Practic-2-Kurs-main\ConsoleApp1\ServerAPI\bin\Debug\net6.0\ServerAPI.dll
+C:\Users\1\Desktop\Summer-Practic-2-Kurs-main\ConsoleApp1\ServerAPI\bin\Debug\net6.0\ServerAPI.pdb
+C:\Users\1\Desktop\Summer-Practic-2-Kurs-main\ConsoleApp1\ServerAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\1\Desktop\Summer-Practic-2-Kurs-main\ConsoleApp1\ServerAPI\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\1\Desktop\Summer-Practic-2-Kurs-main\ConsoleApp1\ServerAPI\bin\Debug\net6.0\System.Management.dll
+C:\Users\1\Desktop\Summer-Practic-2-Kurs-main\ConsoleApp1\ServerAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\1\Desktop\Summer-Practic-2-Kurs-main\ConsoleApp1\ServerAPI\bin\Debug\net6.0\Classes.dll
+C:\Users\1\Desktop\Summer-Practic-2-Kurs-main\ConsoleApp1\ServerAPI\bin\Debug\net6.0\Classes.pdb
+C:\Users\1\Desktop\Summer-Practic-2-Kurs-main\ConsoleApp1\ServerAPI\obj\Debug\net6.0\ServerAPI.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\Summer-Practic-2-Kurs-main\ConsoleApp1\ServerAPI\obj\Debug\net6.0\ServerAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\Summer-Practic-2-Kurs-main\ConsoleApp1\ServerAPI\obj\Debug\net6.0\ServerAPI.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\Summer-Practic-2-Kurs-main\ConsoleApp1\ServerAPI\obj\Debug\net6.0\ServerAPI.AssemblyInfo.cs
+C:\Users\1\Desktop\Summer-Practic-2-Kurs-main\ConsoleApp1\ServerAPI\obj\Debug\net6.0\ServerAPI.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Summer-Practic-2-Kurs-main\ConsoleApp1\ServerAPI\obj\Debug\net6.0\ServerAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\1\Desktop\Summer-Practic-2-Kurs-main\ConsoleApp1\ServerAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\1\Desktop\Summer-Practic-2-Kurs-main\ConsoleApp1\ServerAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\1\Desktop\Summer-Practic-2-Kurs-main\ConsoleApp1\ServerAPI\obj\Debug\net6.0\staticwebassets\msbuild.ServerAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\1\Desktop\Summer-Practic-2-Kurs-main\ConsoleApp1\ServerAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.ServerAPI.props
+C:\Users\1\Desktop\Summer-Practic-2-Kurs-main\ConsoleApp1\ServerAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ServerAPI.props
+C:\Users\1\Desktop\Summer-Practic-2-Kurs-main\ConsoleApp1\ServerAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ServerAPI.props
+C:\Users\1\Desktop\Summer-Practic-2-Kurs-main\ConsoleApp1\ServerAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\1\Desktop\Summer-Practic-2-Kurs-main\ConsoleApp1\ServerAPI\obj\Debug\net6.0\scopedcss\bundle\ServerAPI.styles.css
+C:\Users\1\Desktop\Summer-Practic-2-Kurs-main\ConsoleApp1\ServerAPI\obj\Debug\net6.0\ServerAPI.csproj.CopyComplete
+C:\Users\1\Desktop\Summer-Practic-2-Kurs-main\ConsoleApp1\ServerAPI\obj\Debug\net6.0\ServerAPI.dll
+C:\Users\1\Desktop\Summer-Practic-2-Kurs-main\ConsoleApp1\ServerAPI\obj\Debug\net6.0\refint\ServerAPI.dll
+C:\Users\1\Desktop\Summer-Practic-2-Kurs-main\ConsoleApp1\ServerAPI\obj\Debug\net6.0\ServerAPI.pdb
+C:\Users\1\Desktop\Summer-Practic-2-Kurs-main\ConsoleApp1\ServerAPI\obj\Debug\net6.0\ServerAPI.genruntimeconfig.cache
+C:\Users\1\Desktop\Summer-Practic-2-Kurs-main\ConsoleApp1\ServerAPI\obj\Debug\net6.0\ref\ServerAPI.dll
+C:\Users\user\Desktop\ConsoleApp1\ServerAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user\Desktop\ConsoleApp1\ServerAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\user\Desktop\ConsoleApp1\ServerAPI\bin\Debug\net6.0\ServerAPI.exe
+C:\Users\user\Desktop\ConsoleApp1\ServerAPI\bin\Debug\net6.0\ServerAPI.deps.json
+C:\Users\user\Desktop\ConsoleApp1\ServerAPI\bin\Debug\net6.0\ServerAPI.runtimeconfig.json
+C:\Users\user\Desktop\ConsoleApp1\ServerAPI\bin\Debug\net6.0\ServerAPI.dll
+C:\Users\user\Desktop\ConsoleApp1\ServerAPI\bin\Debug\net6.0\ServerAPI.pdb
+C:\Users\user\Desktop\ConsoleApp1\ServerAPI\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\user\Desktop\ConsoleApp1\ServerAPI\bin\Debug\net6.0\System.Management.dll
+C:\Users\user\Desktop\ConsoleApp1\ServerAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\user\Desktop\ConsoleApp1\ServerAPI\obj\Debug\net6.0\ServerAPI.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ConsoleApp1\ServerAPI\obj\Debug\net6.0\ServerAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\ConsoleApp1\ServerAPI\obj\Debug\net6.0\ServerAPI.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\ConsoleApp1\ServerAPI\obj\Debug\net6.0\ServerAPI.AssemblyInfo.cs
+C:\Users\user\Desktop\ConsoleApp1\ServerAPI\obj\Debug\net6.0\ServerAPI.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ConsoleApp1\ServerAPI\obj\Debug\net6.0\ServerAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\ConsoleApp1\ServerAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user\Desktop\ConsoleApp1\ServerAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user\Desktop\ConsoleApp1\ServerAPI\obj\Debug\net6.0\staticwebassets\msbuild.ServerAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\Desktop\ConsoleApp1\ServerAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.ServerAPI.props
+C:\Users\user\Desktop\ConsoleApp1\ServerAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ServerAPI.props
+C:\Users\user\Desktop\ConsoleApp1\ServerAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ServerAPI.props
+C:\Users\user\Desktop\ConsoleApp1\ServerAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\user\Desktop\ConsoleApp1\ServerAPI\obj\Debug\net6.0\scopedcss\bundle\ServerAPI.styles.css
+C:\Users\user\Desktop\ConsoleApp1\ServerAPI\obj\Debug\net6.0\ServerAPI.csproj.Up2Date
+C:\Users\user\Desktop\ConsoleApp1\ServerAPI\obj\Debug\net6.0\ServerAPI.dll
+C:\Users\user\Desktop\ConsoleApp1\ServerAPI\obj\Debug\net6.0\refint\ServerAPI.dll
+C:\Users\user\Desktop\ConsoleApp1\ServerAPI\obj\Debug\net6.0\ServerAPI.pdb
+C:\Users\user\Desktop\ConsoleApp1\ServerAPI\obj\Debug\net6.0\ServerAPI.genruntimeconfig.cache
+C:\Users\user\Desktop\ConsoleApp1\ServerAPI\obj\Debug\net6.0\ref\ServerAPI.dll
+C:\Users\user\Desktop\ConsoleApp1\ServerAPI\bin\Debug\net6.0\NetFrameworkClasses.dll
+C:\Users\user\Desktop\ConsoleApp1\ServerAPI\bin\Debug\net6.0\NetFrameworkClasses.pdb
