@@ -1,0 +1,15 @@
+C:\Users\1\Desktop\Summer-Practic-2-Kurs-main\ConsoleApp1\NetFrameworkClasses\bin\Debug\NetFrameworkClasses.dll
+C:\Users\1\Desktop\Summer-Practic-2-Kurs-main\ConsoleApp1\NetFrameworkClasses\bin\Debug\NetFrameworkClasses.pdb
+C:\Users\1\Desktop\Summer-Practic-2-Kurs-main\ConsoleApp1\NetFrameworkClasses\obj\Debug\NetFrameworkClasses.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\Summer-Practic-2-Kurs-main\ConsoleApp1\NetFrameworkClasses\obj\Debug\NetFrameworkClasses.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Summer-Practic-2-Kurs-main\ConsoleApp1\NetFrameworkClasses\obj\Debug\NetFrameworkClasses.dll
+C:\Users\1\Desktop\Summer-Practic-2-Kurs-main\ConsoleApp1\NetFrameworkClasses\obj\Debug\NetFrameworkClasses.pdb
+C:\Users\user\Desktop\ConsoleApp1\NetFrameworkClasses\bin\Debug\NetFrameworkClasses.dll
+C:\Users\user\Desktop\ConsoleApp1\NetFrameworkClasses\bin\Debug\NetFrameworkClasses.pdb
+C:\Users\user\Desktop\ConsoleApp1\NetFrameworkClasses\obj\Debug\NetFrameworkClasses.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ConsoleApp1\NetFrameworkClasses\obj\Debug\NetFrameworkClasses.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ConsoleApp1\NetFrameworkClasses\obj\Debug\NetFrameworkClasses.dll
+C:\Users\user\Desktop\ConsoleApp1\NetFrameworkClasses\obj\Debug\NetFrameworkClasses.pdb
+C:\Users\user\Desktop\ConsoleApp1\NetFrameworkClasses\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\ConsoleApp1\NetFrameworkClasses\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Desktop\ConsoleApp1\NetFrameworkClasses\obj\Debug\NetFrame.5EFB77EA.Up2Date

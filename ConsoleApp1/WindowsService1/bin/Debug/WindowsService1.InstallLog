@@ -1,0 +1,159 @@
+﻿Выполняется установка сборки 'C:\Users\1\Desktop\Summer-Practic-2-Kurs-main\ConsoleApp1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\1\Desktop\Summer-Practic-2-Kurs-main\ConsoleApp1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\1\Desktop\Summer-Practic-2-Kurs-main\ConsoleApp1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Устанавливается служба PracticService...
+Создается исходный EventLog PracticService в журнале Application...
+Выполняется откат для сборки 'C:\Users\1\Desktop\Summer-Practic-2-Kurs-main\ConsoleApp1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\1\Desktop\Summer-Practic-2-Kurs-main\ConsoleApp1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\1\Desktop\Summer-Practic-2-Kurs-main\ConsoleApp1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Восстанавливается исходное состояние журнала событий для источника PracticService.
+При выполнении программы установки System.Diagnostics.EventLogInstaller на этапе отката возникло исключение.
+System.Security.SecurityException: Источник не найден, но не удалось выполнить поиск по нескольким или всем журналам событий.  Недоступные журналы: Security, State.
+На этапе отката процедуры установки возникло исключение. Это исключение будет проигнорировано, и откат будет продолжен. Однако после завершения отката компьютер может не вернуться полностью в исходное состояние.
+Выполняется установка сборки 'C:\Users\1\Desktop\Summer-Practic-2-Kurs-main\ConsoleApp1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\1\Desktop\Summer-Practic-2-Kurs-main\ConsoleApp1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\1\Desktop\Summer-Practic-2-Kurs-main\ConsoleApp1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Устанавливается служба PracticService...
+Служба PracticService успешно установлена.
+Создается исходный EventLog PracticService в журнале Application...
+Выполняется фиксация сборки 'C:\Users\1\Desktop\Summer-Practic-2-Kurs-main\ConsoleApp1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\1\Desktop\Summer-Practic-2-Kurs-main\ConsoleApp1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\1\Desktop\Summer-Practic-2-Kurs-main\ConsoleApp1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление сборки 'C:\Users\1\Desktop\Summer-Practic-2-Kurs-main\ConsoleApp1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\1\Desktop\Summer-Practic-2-Kurs-main\ConsoleApp1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\1\Desktop\Summer-Practic-2-Kurs-main\ConsoleApp1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление источника EventLog PracticService.
+При выполнении программы установки System.Diagnostics.EventLogInstaller во время установки возникло исключение.
+System.Security.SecurityException: Запрошенный доступ к реестру запрещен.
+При удалении из системы возникло исключение. Это исключение будет проигнорировано, и удаление из системы будет продолжено. Однако после завершения удаления данное приложение может оказаться не полностью удаленным.
+Выполняется удаление сборки 'C:\Users\1\Desktop\Summer-Practic-2-Kurs-main\ConsoleApp1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\1\Desktop\Summer-Practic-2-Kurs-main\ConsoleApp1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\1\Desktop\Summer-Practic-2-Kurs-main\ConsoleApp1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление источника EventLog PracticService.
+При выполнении программы установки System.Diagnostics.EventLogInstaller во время установки возникло исключение.
+System.Security.SecurityException: Запрошенный доступ к реестру запрещен.
+При удалении из системы возникло исключение. Это исключение будет проигнорировано, и удаление из системы будет продолжено. Однако после завершения удаления данное приложение может оказаться не полностью удаленным.
+Выполняется удаление сборки 'C:\Users\1\Desktop\Summer-Practic-2-Kurs-main\ConsoleApp1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\1\Desktop\Summer-Practic-2-Kurs-main\ConsoleApp1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\1\Desktop\Summer-Practic-2-Kurs-main\ConsoleApp1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление источника EventLog PracticService.
+При выполнении программы установки System.Diagnostics.EventLogInstaller во время установки возникло исключение.
+System.Security.SecurityException: Запрошенный доступ к реестру запрещен.
+При удалении из системы возникло исключение. Это исключение будет проигнорировано, и удаление из системы будет продолжено. Однако после завершения удаления данное приложение может оказаться не полностью удаленным.
+Выполняется удаление сборки 'C:\Users\1\Desktop\Summer-Practic-2-Kurs-main\ConsoleApp1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\1\Desktop\Summer-Practic-2-Kurs-main\ConsoleApp1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\1\Desktop\Summer-Practic-2-Kurs-main\ConsoleApp1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление источника EventLog PracticService.
+При выполнении программы установки System.Diagnostics.EventLogInstaller во время установки возникло исключение.
+System.Security.SecurityException: Запрошенный доступ к реестру запрещен.
+При удалении из системы возникло исключение. Это исключение будет проигнорировано, и удаление из системы будет продолжено. Однако после завершения удаления данное приложение может оказаться не полностью удаленным.
+Выполняется установка сборки 'C:\Users\1\Desktop\Summer-Practic-2-Kurs-main\ConsoleApp1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\1\Desktop\Summer-Practic-2-Kurs-main\ConsoleApp1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\1\Desktop\Summer-Practic-2-Kurs-main\ConsoleApp1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Устанавливается служба PracticService...
+Создается исходный EventLog PracticService в журнале Application...
+Выполняется откат для сборки 'C:\Users\1\Desktop\Summer-Practic-2-Kurs-main\ConsoleApp1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\1\Desktop\Summer-Practic-2-Kurs-main\ConsoleApp1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\1\Desktop\Summer-Practic-2-Kurs-main\ConsoleApp1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Восстанавливается исходное состояние журнала событий для источника PracticService.
+Выполняется установка сборки 'C:\Users\1\Desktop\Summer-Practic-2-Kurs-main\ConsoleApp1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\1\Desktop\Summer-Practic-2-Kurs-main\ConsoleApp1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\1\Desktop\Summer-Practic-2-Kurs-main\ConsoleApp1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Устанавливается служба PracticService...
+Создается исходный EventLog PracticService в журнале Application...
+Выполняется откат для сборки 'C:\Users\1\Desktop\Summer-Practic-2-Kurs-main\ConsoleApp1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\1\Desktop\Summer-Practic-2-Kurs-main\ConsoleApp1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\1\Desktop\Summer-Practic-2-Kurs-main\ConsoleApp1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Восстанавливается исходное состояние журнала событий для источника PracticService.
+Выполняется установка сборки 'C:\Users\1\Desktop\Summer-Practic-2-Kurs-main\ConsoleApp1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\1\Desktop\Summer-Practic-2-Kurs-main\ConsoleApp1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\1\Desktop\Summer-Practic-2-Kurs-main\ConsoleApp1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Устанавливается служба PracticService...
+Создается исходный EventLog PracticService в журнале Application...
+Выполняется откат для сборки 'C:\Users\1\Desktop\Summer-Practic-2-Kurs-main\ConsoleApp1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\1\Desktop\Summer-Practic-2-Kurs-main\ConsoleApp1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\1\Desktop\Summer-Practic-2-Kurs-main\ConsoleApp1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Восстанавливается исходное состояние журнала событий для источника PracticService.
+Выполняется установка сборки 'C:\Users\1\Desktop\Summer-Practic-2-Kurs-main\ConsoleApp1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\1\Desktop\Summer-Practic-2-Kurs-main\ConsoleApp1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\1\Desktop\Summer-Practic-2-Kurs-main\ConsoleApp1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Устанавливается служба PracticService...
+Создается исходный EventLog PracticService в журнале Application...
+Выполняется откат для сборки 'C:\Users\1\Desktop\Summer-Practic-2-Kurs-main\ConsoleApp1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\1\Desktop\Summer-Practic-2-Kurs-main\ConsoleApp1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\1\Desktop\Summer-Practic-2-Kurs-main\ConsoleApp1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Восстанавливается исходное состояние журнала событий для источника PracticService.
+Выполняется установка сборки 'C:\Users\1\Desktop\Summer-Practic-2-Kurs-main\ConsoleApp1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\1\Desktop\Summer-Practic-2-Kurs-main\ConsoleApp1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\1\Desktop\Summer-Practic-2-Kurs-main\ConsoleApp1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Устанавливается служба PracticService2...
+Создается исходный EventLog PracticService2 в журнале Application...
+Выполняется откат для сборки 'C:\Users\1\Desktop\Summer-Practic-2-Kurs-main\ConsoleApp1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\1\Desktop\Summer-Practic-2-Kurs-main\ConsoleApp1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\1\Desktop\Summer-Practic-2-Kurs-main\ConsoleApp1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Восстанавливается исходное состояние журнала событий для источника PracticService2.
+При выполнении программы установки System.Diagnostics.EventLogInstaller на этапе отката возникло исключение.
+System.Security.SecurityException: Источник не найден, но не удалось выполнить поиск по нескольким или всем журналам событий.  Недоступные журналы: Security, State.
+На этапе отката процедуры установки возникло исключение. Это исключение будет проигнорировано, и откат будет продолжен. Однако после завершения отката компьютер может не вернуться полностью в исходное состояние.
+Выполняется установка сборки 'C:\Users\1\Desktop\Summer-Practic-2-Kurs-main\ConsoleApp1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\1\Desktop\Summer-Practic-2-Kurs-main\ConsoleApp1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\1\Desktop\Summer-Practic-2-Kurs-main\ConsoleApp1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Устанавливается служба PracticService2...
+Служба PracticService2 успешно установлена.
+Создается исходный EventLog PracticService2 в журнале Application...
+Выполняется фиксация сборки 'C:\Users\1\Desktop\Summer-Practic-2-Kurs-main\ConsoleApp1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\1\Desktop\Summer-Practic-2-Kurs-main\ConsoleApp1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\1\Desktop\Summer-Practic-2-Kurs-main\ConsoleApp1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется установка сборки 'C:\Users\user\Desktop\ConsoleApp1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\user\Desktop\ConsoleApp1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\user\Desktop\ConsoleApp1\WindowsService1\bin\Debug\WindowsService1.exe
+Устанавливается служба PracticService2...
+Служба PracticService2 успешно установлена.
+Создается исходный EventLog PracticService2 в журнале Application...
+Выполняется фиксация сборки 'C:\Users\user\Desktop\ConsoleApp1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\user\Desktop\ConsoleApp1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\user\Desktop\ConsoleApp1\WindowsService1\bin\Debug\WindowsService1.exe
